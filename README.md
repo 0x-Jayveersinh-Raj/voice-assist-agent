@@ -153,8 +153,6 @@ Notes: The websocket handler currently uses Deepgram's SDK paths directly for st
 
 ---
 
-If you'd like I can also:
+To do:
 - Add a small `server/debug` endpoint that returns masked credential info and registered providers.
-- Add an offline websocket variant (Whisper-only) to make local testing easier without Deepgram.
 
-Tell me which follow-up you'd like and I’ll implement it.
