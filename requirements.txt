@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+deepgram-sdk
+websockets
+pyaudio
+numpy
+webrtcvad
+faster-whisper
+requests
+soundfile
+google-genai
+
